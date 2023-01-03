@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 <p align="left">
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" height="18" width="50" /></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" height="15" width="50" /></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" height="30" width="50" /></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" height="20" width="50" /></a>
 </p>
