@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on a Bachelor's Degree in Software Engineering
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play guitar/piano/drum
 
 <br/><br/><br/>
 
