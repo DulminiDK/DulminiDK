@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" height="18" width="50" /></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" height="30" width="50" /></a>
 
-holopin.io/@dulmidk
+
 
