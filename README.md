@@ -20,9 +20,8 @@ Here are some ideas to get you started:
   <img align="right" alt="Coding" width="30%" src="https://tenor.com/view/mio-akiyama-computer-anime-typing-type-gif-12003966.gif"></br>
 <!--    <img align="right" alt="Coding" width="30%" src="https://media.tenor.com/hs2gDfq_bewAAAAC/working-headphones.gif"></br> -->
 	
-- 🔭 Software Engineering undergraduate on a mission
-- 🌱 I’m currently learning everything 😌
-- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
+- 🔭 Software Engineering undergraduate
+- 🫱🏻‍🫲🏻 Let's collaborate!
 - ⚡ Working on Machine Learning and AI ⚖️
 </p>
 <br/><br/>
