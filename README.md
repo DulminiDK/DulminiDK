@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img align="right" alt="Coding" width="30%" src="https://tenor.com/view/mio-akiyama-computer-anime-typing-type-gif-12003966.gif"></br>
 <!--    <img align="right" alt="Coding" width="30%" src="https://media.tenor.com/hs2gDfq_bewAAAAC/working-headphones.gif"></br> -->
 	
-- 🔭 Software Engineering undergraduate
-- ⚡ Working on Web Development ⚖️
+- 🔭 Software Engineering graduate
+- ⚡ Working on Full-stack Development ⚖️
 </p>
 <br/><br/>
 
